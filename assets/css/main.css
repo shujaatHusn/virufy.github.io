@@ -3341,6 +3341,11 @@ button:disabled,
 	padding: 0px 0px;
 }
 
+/*to remove the blue color popping out when someone clicks icon on phone*/
+.footer-icons a:focus {
+	background-color: transparent;
+}
+
 /*about us styles*/
 #about {
 	font-size: 48px;
