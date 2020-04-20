@@ -3184,7 +3184,7 @@ button:disabled,
 	}
 
 	#banner h1 {
-		font-size: 3em;
+		font-size: 6em;
 	}
 
 	#banner h3 {
@@ -3384,11 +3384,11 @@ img::selection {
 	color: rgb(11, 131, 121);
 }
 
-/* 
+/*
 Removing the extra padding on top in the last section of the main page.
-This is very bad code and I am not proud of it. 
+This is very bad code and I am not proud of it.
 
-TODO: Experiment with last-of-type CSS selector. 
+TODO: Experiment with last-of-type CSS selector.
 */
 #four {
 	padding-top: 0em;
