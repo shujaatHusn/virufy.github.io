@@ -3338,7 +3338,7 @@ button:disabled,
 .footer-icons a {
 	/* To remove underline that appears beneath GitHub icon since its a link */
 	text-decoration: none;
-	padding: 100px 0px;
+	padding: 0px 0px;
 }
 
 /*about us styles*/
