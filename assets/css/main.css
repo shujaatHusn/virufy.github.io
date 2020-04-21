@@ -3109,7 +3109,7 @@ button:disabled,
 }
 
 #banner h1 {
-	font-size: 3.5em;
+	font-size: 5em;
 	font-weight: 400;
 	color: #fff;
 	line-height: 1em;
@@ -3185,7 +3185,7 @@ button:disabled,
 	}
 
 	#banner h1 {
-		font-size: 6em;
+		font-size: 7em;
 	}
 
 	#banner h3 {
@@ -3208,7 +3208,7 @@ button:disabled,
 	}
 
 	#banner h1 {
-		font-size: 2.5em;
+		font-size: 4em;
 	}
 
 	#banner h3 {
@@ -3231,7 +3231,7 @@ button:disabled,
 	}
 
 	#banner h1 {
-		font-size: 2em;
+		font-size: 3em;
 	}
 
 	#banner h3 {
@@ -3256,7 +3256,7 @@ button:disabled,
 
 @media screen and (max-width: 480px) {
 	#banner h1 {
-		font-size: 1.5em;
+		font-size: 2.5em;
 	}
 }
 
@@ -3395,6 +3395,6 @@ TODO: Experiment with last-of-type CSS selector.
 	padding-top: 0em;
 }
 
-img#goals {
+img.virufy-image {
 	width: 100%;
 }
