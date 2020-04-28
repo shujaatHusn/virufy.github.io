@@ -3319,7 +3319,7 @@ button:disabled,
 	/*Overrides default 1.5em bottom margin for h1 - h6*/
 }
 
-.collab img {
+/* .collab img {
 	width: 15em;
 	margin: 0 3em;
 }
@@ -3336,7 +3336,7 @@ button:disabled,
 		width: 8em;
 		margin: 0;
 	}
-}
+} */
 #header-virufy-span {
 	color: #6cc091;
 }
