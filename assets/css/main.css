@@ -3367,6 +3367,8 @@ button:disabled,
 	/* To remove underline that appears beneath GitHub icon since its a link */
 	text-decoration: none;
 	padding: 0px 0px;
+	margin: 0 10px 0 0;
+	text-align: center;
 }
 
 /*to remove the blue color popping out when someone clicks icon on phone*/
