@@ -3319,11 +3319,12 @@ button:disabled,
 	/*Overrides default 1.5em bottom margin for h1 - h6*/
 }
 
-/* .collab img {
+.collab img {
 	width: 15em;
 	margin: 0 3em;
 }
 
+/*media queries for icons sizing*/
 @media screen and (max-width: 750px) {
 	.collab img {
 		width: 11em;
@@ -3331,12 +3332,20 @@ button:disabled,
 	}
 }
 
-@media screen and (max-width: 600) {
+@media screen and (max-width: 600px) {
+	.collab img {
+		width: 9em;
+		margin: 0;
+	}
+}
+
+@media screen and (max-width: 400px) {
 	.collab img {
 		width: 8em;
 		margin: 0;
 	}
-} */
+}
+
 #header-virufy-span {
 	color: #6cc091;
 }
